@@ -9,7 +9,8 @@ https://sites-gamesshop-ecru.vercel.app/
 # Tecnologias utilizadas
 
 ## Front end
-- HTML / CSS
+- HTML
+- CSS
 
 # Autor
 
